@@ -52,6 +52,7 @@ current status
 
 newst on top
 
+https://docs.astro.build/en/tutorial/4-layouts/3/
 https://docs.astro.build/en/tutorial/4-layouts/
 https://docs.astro.build/en/tutorial/3-components/
 https://docs.astro.build/en/tutorial/2-pages/3/
