@@ -50,4 +50,7 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 
 current status
 
+newst on top
+
+https://docs.astro.build/en/tutorial/3-components/
 https://docs.astro.build/en/tutorial/2-pages/3/
