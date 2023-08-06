@@ -52,6 +52,8 @@ current status
 
 newest on top
 
+addon: https://docs.astro.build/en/guides/content-collections/#migrating-from-file-based-routing
+
 finished on
 
 https://docs.astro.build/en/tutorial/6-islands/3/
