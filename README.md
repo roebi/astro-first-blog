@@ -50,14 +50,20 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into ou
 
 current status
 
-newst on top
+newest on top
 
-remark: rrs Feed is then base URL + /rss.xml
+remark: rrs Feed is base URL + /rss.xml
+
 use / control with https://www.inoreader.com
 
 https://docs.astro.build/en/tutorial/5-astro-api/4/
+
 https://docs.astro.build/en/tutorial/5-astro-api/
+
 https://docs.astro.build/en/tutorial/4-layouts/3/
+
 https://docs.astro.build/en/tutorial/4-layouts/
+
 https://docs.astro.build/en/tutorial/3-components/
+
 https://docs.astro.build/en/tutorial/2-pages/3/
