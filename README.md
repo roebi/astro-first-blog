@@ -52,6 +52,8 @@ current status
 
 newest on top
 
+https://docs.astro.build/en/tutorial/6-islands/1/
+
 remark: rrs Feed is base URL + /rss.xml
 
 use / control with https://www.inoreader.com
