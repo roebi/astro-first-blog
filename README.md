@@ -52,6 +52,9 @@ current status
 
 newst on top
 
+remark: rrs Feed is then base URL + /rss.xml
+use / control with https://www.inoreader.com
+
 https://docs.astro.build/en/tutorial/5-astro-api/4/
 https://docs.astro.build/en/tutorial/5-astro-api/
 https://docs.astro.build/en/tutorial/4-layouts/3/
