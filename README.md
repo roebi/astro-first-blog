@@ -125,6 +125,7 @@ npm run build
 npm install @astrojs/preact@latest
 npm install @astrojs/rss@latest
 ```
+
 test
 
 ```
@@ -135,6 +136,7 @@ npm run preview
 ```
 
 add all astro default commands as shortcut commands in package.json:
+
 ```
   "scripts": {
     "astro": "astro",
