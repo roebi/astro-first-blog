@@ -1,7 +1,7 @@
 {
   "name": "",
   "type": "module",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "scripts": {
     "astro": "astro",
     "build": "astro build",
@@ -9,6 +9,11 @@
     "dev": "astro dev",
     "docs": "astro docs",
     "info": "astro info",
+    "prettier:help": "npx prettier --help",
+    "prettier:check": "npx prettier --check .",
+    "prettier:listdifferent": "npx prettier --list-different .",
+    "prettier:write": "npx prettier --write .",
+    "prepare": "husky install",
     "preview": "astro preview",
     "start": "astro dev",
     "sync": "astro sync",
@@ -21,5 +26,10 @@
     "astro": "^3.0.6",
     "preact": "^10.17.1",
     "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "prettier": "^3.0.3",
+    "prettier-plugin-astro": "^0.12.0"
   }
 }
