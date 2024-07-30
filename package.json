@@ -20,15 +20,15 @@
     "telemetry": "astro telemetry"
   },
   "dependencies": {
-    "@astrojs/check": "^0.8.2",
+    "@astrojs/check": "^0.8.3",
     "@astrojs/preact": "^3.5.1",
     "@astrojs/rss": "^4.0.7",
     "astro": "^4.12.2",
     "preact": "^10.23.1",
-    "typescript": "^5.5.3"
+    "typescript": "^5.5.4"
   },
   "devDependencies": {
-    "husky": "^9.1.1",
+    "husky": "^9.1.4",
     "prettier": "^3.3.3",
     "prettier-plugin-astro": "^0.14.1"
   }
