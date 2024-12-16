@@ -24,7 +24,7 @@
     "@astrojs/preact": "^4.0.0",
     "@astrojs/rss": "^4.0.10",
     "astro": "^5.0.4",
-    "preact": "^10.25.1",
+    "preact": "^10.25.2",
     "typescript": "^5.7.2"
   },
   "devDependencies": {
