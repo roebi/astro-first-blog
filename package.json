@@ -23,8 +23,8 @@
     "@astrojs/check": "^0.9.4",
     "@astrojs/preact": "^4.1.0",
     "@astrojs/rss": "^4.0.12",
-    "astro": "^5.9.2",
-    "preact": "^10.26.9",
+    "astro": "^5.10.1",
+    "preact": "^10.26.8",
     "typescript": "^5.8.3"
   },
   "devDependencies": {
